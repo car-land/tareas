@@ -12,7 +12,7 @@ Carlos Alberto Andrade Mendez
 			<td>archivos</td>
 		</tr>
 		<tr bgcolor="#A5AEB0">
-			<td>Practica 1</td>
+			<td>textos</td>
 			<td><a href="textos.html">Estilos de Texto</a></td>
 		</tr>
 		<tr bgcolor="#A5AEB0">
@@ -20,7 +20,7 @@ Carlos Alberto Andrade Mendez
 			<td><a href="curriculum.html">Marcado</a></td>
 		</tr>
 		<tr bgcolor="#A5AEB0">
-			<td>practica3</td>
+			<td>horario</td>
 			<td><a href="horario.html">Tablas avanzadas</a></td>
 		</tr>
 	</tbody></table>
