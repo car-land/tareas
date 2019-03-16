@@ -9,7 +9,7 @@ Carlos Alberto Andrade Mendez
 	<table border="3" cellpadding="5">
 		<tbody><tr bgcolor="#A5AEB0">
 			<td>Trabajos</td>
-			<td>archivos</td>
+			<td>enlaces</td>
 		</tr>
 		<tr bgcolor="#A5AEB0">
 			<td>textos</td>
