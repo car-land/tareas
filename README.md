@@ -8,7 +8,7 @@ Carlos Alberto Andrade Mendez
 	<h2><font color="#1B38DA">PROGRAMACIÓN WEB</font></h2>
 	<table border="3" cellpadding="5">
 		<tbody><tr bgcolor="#A5AEB0">
-			<td>Unidad 1</td>
+			<td>Trabajos</td>
 			<td>archivos</td>
 		</tr>
 		<tr bgcolor="#A5AEB0">
@@ -22,6 +22,10 @@ Carlos Alberto Andrade Mendez
 		<tr bgcolor="#A5AEB0">
 			<td>horario</td>
 			<td><a href="horario.html">Tablas avanzadas</a></td>
+		</tr>
+		<tr bgcolor="#A5AEB0">
+		<td>Scriba</td>
+			<td><a href="scriba.html">Marcado</a></td>
 		</tr>
 	</tbody></table>
 
