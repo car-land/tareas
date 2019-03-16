@@ -25,7 +25,7 @@ Carlos Alberto Andrade Mendez
 		</tr>
 		<tr bgcolor="#A5AEB0">
 		<td>Scriba</td>
-			<td><a href="scriba.html">Marcado</a></td>
+			<td><a href="scriba.html">criba</a></td>
 		</tr>
 	</tbody></table>
 
